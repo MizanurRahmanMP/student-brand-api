@@ -1,0 +1,14 @@
+{
+  "name": "teme",
+  "version": "1.0.0",
+  "description": "this is a student data api",
+  "main": "index.js",
+  "scripts": {
+    "student": "json-server --watch db.json --port 5050"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
